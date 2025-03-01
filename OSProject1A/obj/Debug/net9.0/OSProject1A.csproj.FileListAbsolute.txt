@@ -1,0 +1,15 @@
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/bin/Debug/net9.0/OSProject1A
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/bin/Debug/net9.0/OSProject1A.deps.json
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/bin/Debug/net9.0/OSProject1A.runtimeconfig.json
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/bin/Debug/net9.0/OSProject1A.dll
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/bin/Debug/net9.0/OSProject1A.pdb
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.GeneratedMSBuildEditorConfig.editorconfig
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.AssemblyInfoInputs.cache
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.AssemblyInfo.cs
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.csproj.CoreCompileInputs.cache
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.sourcelink.json
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.dll
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/refint/OSProject1A.dll
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.pdb
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/OSProject1A.genruntimeconfig.cache
+/home/jporti10/RiderProjects/OS.Class.Pjkt.One/OSProject1A/obj/Debug/net9.0/ref/OSProject1A.dll

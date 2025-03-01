@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OSProject1A/1.0.0": {
+        "runtime": {
+          "OSProject1A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSProject1A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
