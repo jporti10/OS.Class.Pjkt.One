@@ -1,6 +1,6 @@
 # OS.Class.Pjkt.One
 
-Hello and welcome to my first official git project from OS Class. The prompy the teacher has given the class is to either use C#, Rust or C++ to write a program that follows the conditions in which we:
+Hello and welcome to my first official git project from OS Class. The prompt the teacher has given the class is to either use C#, Rust or C++ to write a program that follows the conditions in which we:
 
 **Phase 1: Basic Thread Operations**
 - Create threads that perform concurrent operations
