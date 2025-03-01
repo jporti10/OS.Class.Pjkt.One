@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OS.Class.Pjkt.One")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf395e8d5c93cba9aef0d69688be5ef7c8192a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("OS.Class.Pjkt.One")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OS.Class.Pjkt.One")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
