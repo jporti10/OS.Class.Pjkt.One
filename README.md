@@ -2,6 +2,8 @@
 
 Hello and welcome to my first official git project from OS Class. The prompt the teacher has given the class is to either use C#, Rust or C++ to write a program that follows the conditions in which we:
 
+# Part A
+
 **Phase 1: Basic Thread Operations**
 - Create threads that perform concurrent operations
 - Demonstrate proper thread creation and management
@@ -25,6 +27,13 @@ Hello and welcome to my first official git project from OS Class. The prompt the
 - Add proper resource ordering
 - Show deadlock prevention and recovery
 - Banking Example: Resolve deadlocks through ordered account access
+
+# Part B
+
+**Core Req.:**
+- Implement or demonstrate communication between two or more processes using pipes (|)
+- Show and explain data flow between processes
+
 
 **Setup:** You will need to download the code from the repo or clone it into your own IDE and run it in a **C# compiler** or something equivalent/compatible. You dont neccesarily need to do it in Linux but for what I had to do this has been tested on Linux, Windows, but **not Mac yet**. It **probably** works but I haven't went that far.
 
